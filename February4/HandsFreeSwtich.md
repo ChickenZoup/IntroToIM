@@ -8,4 +8,4 @@ Below is the setup of my switch
 This is a close-up view of my swtich
 ![](closeup.jpg)
 
-![Here](https://www.youtube.com/watch?v=qS9syfXv_s0)is a video of my bracelet switch in action!
+[Here](https://www.youtube.com/watch?v=qS9syfXv_s0)is a video of my bracelet switch in action!
