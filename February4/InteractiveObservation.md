@@ -1,4 +1,5 @@
 **Interactive Observation**
+
 In all student residential halls, the lights in the staircases are activated by sound. During anytime of the day, as soon as the sensors don’t detect any sounds (meaning nobody is using the stairs) for a certain amount of time, the lights are automatically switched off. 
 
 There are multiple positive benefits to this design: Firstly, it avoids the situation of lights being turned on all the time while nobody is even around in the staircases, thereby saving a significant amount of energy. Secondly, the implementation of the design is both financially beneficial for the school and friendly to the environment. 
