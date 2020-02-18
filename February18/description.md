@@ -1,6 +1,8 @@
 **A description of concept and how it was achieved**
 
-For this assignment, I combined one analog sensor(a potentionmeter) and one digital sensor(a button) to control 2 LEDs. I wanted to have alternating LEDs that respond to those two sensors differently. In order to achieve this, I designed a threshold feature for the potentionmeter. Whenever the potentionmeter is below 50% of its range, the yellow LED is turned on. Whenever it is beyond 50%, the green LED is turned on. If the green button is pressed, both LEDs will be on. 
+For this assignment, I combined one analog sensor(a potentionmeter) and one digital sensor(a button) to control 2 LEDs. I wanted to have alternating LEDs that respond to those two sensors differently through designs that would put both bottons and LEDs in use differently.
+
+In order to achieve this, I designed a threshold feature for the potentionmeter. Whenever the potentionmeter is below 50% of its range, the yellow LED is turned on. Whenever it is beyond 50%, the green LED is turned on. If the green button is pressed, both LEDs will be on (If the potentionmeter is set so that the green LED was already on, the yellow LED will also be turned on, and vice versa).
 
 
 **Schematic**
