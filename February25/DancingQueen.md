@@ -15,7 +15,9 @@
 ![](setup.jpg)
 
 **Problems and Solutions, Failures and Resolutions**
+
 Half way through my project, my servo motor wasnt moving properly and it seemed like my projecting was more of a twitching queen than a dancing queen. I took two steps to solve this issue. Firstly, instead of tape, I connected the stick to the motor with a plastic attachment. Secondly, I specified in my code a narrower range of movements. Combined, there is a very secure dancing queen that dances to different melodies differently!
 
 **Video**
+
 [Here](https://youtu.be/blMNPb4uEAk) is a video of the dancing queen in action!
