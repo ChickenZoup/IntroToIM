@@ -150,7 +150,7 @@ void loop() {
       for (int i = 60; i < 20; i++) {
         myservo.write(i);                  // sets the servo position according to the scaled value
         delay(5);
-      }// waits for the servo to get
+      }
 
 
 
