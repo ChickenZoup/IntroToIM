@@ -11,6 +11,10 @@ The question of what knowledge exists in our minds always fascinates me. For my 
 There are three parts to actualy implementing my concept to a concrete project. Firstly, how to construct the circuit. I knew from the very start that I would want to use quite a few LEDs and 
 
 
+**Progress Documentation**
+
+
+
 **Problems, if any, and solutions, if any**
 
 a. the potentionmeter wasnt working properly, cuz somehow put a 10k resistor in 
