@@ -4,4 +4,6 @@ For this assignment, I drew a portrait of myself using Processing. I had a lot o
 
 It was especially tricky to draw hair that fits with the rest of the image. I solved it by having two parts of hair: One in the background, and therefore is in the beginning of the code. Another that will cover up the head and partially cover the ears, and is at the very end of my code. 
 
+examples of the background change:
 ![](selfportrait.jpg)
+![](2.jpg)
