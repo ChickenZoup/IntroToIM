@@ -30,7 +30,7 @@ void setup() {
     box(100, 100, 100);        //draw 'unrotated' cube in rotated frame
     translate(-100, 0, 0);  //putting the white box in the right covering spot
     stroke(255); 
-    box(100, 100, 100); //draws a white box that covers one side of the cute
+    box(100, 100, 100); //draws a white box that covers one side of the cube
     stroke(0); 
     translate(100, 0, 0); //reverts everything back to normal
     rotateZ(-rot1);             //rerotate back the frame so now only the cube is rotated
