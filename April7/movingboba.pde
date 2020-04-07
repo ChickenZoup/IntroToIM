@@ -56,7 +56,7 @@ void setup() {
   for (int i=0; i < myCircleArray.length; i++) {
   //make sure the boba's starting position is within the range of the dimension of the cup 
     myCircleArray[i] = new MovingBoba(random(130, 130+180-CIRCLESIZE), 
-      random(200+100, 200+190-CIRCLESIZE));
+      random(200+100, 200+190-CIRCLESIZE));//make sure the highest the bobas move is about 1/2 of the cup's height to make it more realistic
   }
 }
 
