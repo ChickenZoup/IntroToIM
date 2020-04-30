@@ -1,7 +1,11 @@
-//for this assignment, I tweaked around the image of a banana. I tried to mimick//
-//something that gives some pop-art/Andy Warhol/velvet undergroundish vibes.
-//references:https://processing.org/tutorials/color/;
-//https://processing.org/reference/green_.html*//
+/*
+iNTRO TO IM
+xz2043 Zou Xinyi
+for this assignment, I tweaked around the image of a banana. I tried to mimick
+something that gives some pop-art/Andy Warhol/velvet undergroundish vibes.
+references:https://processing.org/tutorials/color/;
+https://processing.org/reference/green_.html
+*/
 
 PImage banana;
 
