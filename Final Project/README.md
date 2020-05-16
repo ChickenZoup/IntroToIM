@@ -12,3 +12,5 @@ I hope to recreate the tenseness and structure of this piece through processing,
 
 **Issues**
 1. once I set a button that plays and pauses, sometimes it conflicts with the mouseClick function that determines where the cirlces are on the screen. 
+
+2. collision: think of two cases: when the balls are moving on their own and when the mouse click is used 
