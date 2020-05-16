@@ -11,4 +11,4 @@ I hope to recreate the tenseness and structure of this piece through processing,
 
 
 **Issues**
-1. set a button that plays and pauses, 
+1. once I set a button that plays and pauses, sometimes it conflicts with the mouseClick function that determines where the cirlces are on the screen. 
