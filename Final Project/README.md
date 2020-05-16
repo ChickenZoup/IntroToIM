@@ -12,7 +12,7 @@ I hope to recreate the tenseness and structure of this piece through processing,
 **IMPLEMENTATION**
 
 **Phase One**
-
+(all relavent materials can be found through downloading folder "initial")
 I started the process of trying to make my concept into a program by doing some research. I found a lot resources that is about sound visualization, and I played around with some source codes. Below is the initial version that I started with. It is more of a traditional form of sound visualization, as it does not have any interactive element. It analyzes the frequency of each sound frame and presents the differences visually. 
 ![](1.jpg)
 ![](2.jpg)
@@ -20,6 +20,7 @@ I started the process of trying to make my concept into a program by doing some 
 [Here](https://youtu.be/cOKUIRFaWHE) is a video of the initial version in action. I chose to record from my phone instead of screen recording so the sound can also be included.
 
 **Phase Two: Final Submission**
+(folder "AFAS")
 
 I was not satisfied with the end product of phase one. It just wasnt interactive enough. I decided to play around with the concept of armies in battle by creating an additional cluster of circles. Now, it looks like there are two armies fighting alone a battle line. Inspired by the doorbell example we looked at a couple weeks ago in class, I also decided to create a play/pause button. Additionally, I want the user to have the option of actually engaging in the battle through deciding where the two armies are by clicking on different areas of the screen. I like this feature because the song wanted to dipict a scene in war, which should be unpredictable and in motion. 
 
