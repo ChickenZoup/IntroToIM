@@ -34,6 +34,7 @@ This is what happens if the user engages and clicks around the screen to make th
 [Here](https://youtu.be/vA-sS8JUeK8) is a video of my final submission in action. It shows both modes, user interacts and user chooses not to do anything else other than click play/pause. 
 
 **ISSUES**
+
 I ran into two main issues when creating my code. 
 
 1. As soon as I implemented the play/pause button, the user engagement mode is disrupted: When the user clicks on the screen, instead of making the armies move, she pauses music. It took some tweaking around, but eventually I solved this issue through checking whether the cursor is on the button in the beginning of the code. I then created a conditional loop: the whole thing about the battle line and the armies do not happen unless the music is playing. 
